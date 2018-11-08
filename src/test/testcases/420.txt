@@ -1,0 +1,15 @@
+
+                var a: integer;
+                var g: real;
+                var c: real;
+                procedure main();
+                begin
+                    foo(false,1.0);
+                    g := C := a := g(1) ;
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                    foo(True,1e2);
+                end
+                

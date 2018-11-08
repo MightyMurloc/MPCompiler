@@ -1,0 +1,8 @@
+
+                var i,j: real; k,j: integer;
+                procedure main();
+                begin end
+                procedure foo();
+                begin
+                end
+                

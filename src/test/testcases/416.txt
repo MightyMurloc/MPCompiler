@@ -1,0 +1,14 @@
+
+                var a: real; b: array[1 .. 2] of integer;
+                procedure main();
+                begin
+                    foo(false,a);
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                    foo(True,1e2);
+                    a:= a - 1;
+                    a:= b[1] + b[x];
+                end
+                

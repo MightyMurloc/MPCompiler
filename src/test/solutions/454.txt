@@ -1,0 +1,1 @@
+Type Mismatch In Expression: ArrayCell(CallExpr(Id(proc),[IntLiteral(8)]),BinaryOp(+,ArrayCell(CallExpr(Id(proc),[IntLiteral(1)]),IntLiteral(2)),Id(c)))

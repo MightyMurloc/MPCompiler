@@ -1,0 +1,17 @@
+
+                var a,b: integer;
+                procedure main();
+                begin
+                    foo(false,1.0);
+                    if (a < b) then
+                    begin
+                        if (a) then
+                        begin end
+                    end
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                    foo(True,1e2);
+                end
+                

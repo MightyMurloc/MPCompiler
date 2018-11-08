@@ -1,0 +1,17 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                begin
+                    if (false) then
+                    begin
+                        if (foo()) then
+                        begin end
+                    end
+                    else
+                        return;
+                end
+                function foo():integer;
+                begin
+                    return 1;
+                end
+                

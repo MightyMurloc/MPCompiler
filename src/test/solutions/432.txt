@@ -1,0 +1,1 @@
+Type Mismatch In Statement: While(Id(c),[CallStmt(Id(putIntln),[IntLiteral(7)])])

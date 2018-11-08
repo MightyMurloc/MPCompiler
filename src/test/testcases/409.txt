@@ -1,0 +1,9 @@
+
+                var getint: real;
+                procedure main();
+                begin end
+                procedure foo(i: boolean;j:real);
+                begin
+                    getInt();
+                end
+                

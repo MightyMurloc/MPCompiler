@@ -1,0 +1,11 @@
+
+                var a,b: integer; c: boolean;
+                procedure main();
+                begin
+                    if (1 + 2) then
+                    begin
+                        if (c) then
+                        begin end
+                    end
+                end
+                

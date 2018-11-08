@@ -1,0 +1,1 @@
+Type Mismatch In Expression: BinaryOp(/,BinaryOp(-,ArrayCell(CallExpr(Id(proc),[IntLiteral(7)]),IntLiteral(12)),IntLiteral(2)),StringLiteral(alo))

@@ -1,0 +1,12 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: real;
+                begin
+                    c := proc(1e2,"long",12);
+                end
+                function proc(x:real;y:string):real;
+                begin
+                    return 1;
+                end
+                

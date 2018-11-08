@@ -1,0 +1,13 @@
+
+                var a: real;
+                procedure main();
+                begin
+                    foo(false,a);
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                    goo();
+                    a:=a+1;
+                end
+                

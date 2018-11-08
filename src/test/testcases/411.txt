@@ -1,0 +1,10 @@
+
+                procedure main();
+                begin
+                    x := 1;
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                end
+                

@@ -1,0 +1,11 @@
+
+                procedure main();
+                begin
+                    foo(true,2.0);
+                    foo(false,a);
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                end
+                

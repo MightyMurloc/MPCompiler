@@ -1,0 +1,15 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: string;
+                begin
+                    while c do
+                    begin 
+                        putIntln(7);
+                    end
+                end
+                function foo(x:integer):real;
+                begin
+                    return 1;
+                end
+                

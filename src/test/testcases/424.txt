@@ -1,0 +1,11 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                begin
+                    if ("the sun") then
+                    begin
+                        if (c) then
+                        begin end
+                    end
+                end
+                

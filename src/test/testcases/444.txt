@@ -1,0 +1,17 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: real;
+                begin
+                    proc(1e2,"good");
+                end
+                function foo(x:integer):array[1 .. 5] of integer;
+                var a: array[1 .. 5] of boolean;
+                begin
+                    return a;
+                end
+                procedure proc(x:real;y:string);
+                begin
+                    return;
+                end
+                

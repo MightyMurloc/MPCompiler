@@ -1,0 +1,12 @@
+
+                var i: integer;
+                procedure main();
+                begin end
+                procedure foo();
+                begin
+                end
+                procedure i();
+                begin
+                    return;
+                end
+                

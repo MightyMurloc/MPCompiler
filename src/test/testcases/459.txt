@@ -1,0 +1,19 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var d: array[1 .. 2] of real; e: real;
+                begin
+                    if (true and then c) then
+                    begin
+                        while (c and a) do
+                        begin end
+                    end
+                end
+                function proc(x:integer):array[1 .. 100] of integer;
+                var a: array[1 .. 100] of integer; i: integer;
+                begin
+                    for i := 1 to 100 do
+                        a[i] := i;
+                    return a;
+                end
+                

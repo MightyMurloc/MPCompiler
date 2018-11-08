@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(Id(a)IntLiteral(8),Id(c),False,[CallStmt(Id(putIntLn),[IntLiteral(1)])])

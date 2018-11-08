@@ -1,0 +1,12 @@
+
+                var i: integer;
+                procedure main();
+                begin end
+                procedure foo();
+                begin
+                end
+                function foo():integer;
+                begin
+                    return 1+5;
+                end
+                

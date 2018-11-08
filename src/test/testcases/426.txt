@@ -1,0 +1,17 @@
+
+                var b: integer;
+                procedure main();
+                var a: integer;
+                begin
+                    for a := 1 to 7 do
+                    begin end
+                    for a := 1 to 5.0 do
+                    begin
+                        putIntLn(1);
+                    end
+                end
+                function foo():integer;
+                begin
+                    return 1;
+                end
+                

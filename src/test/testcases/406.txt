@@ -1,0 +1,9 @@
+
+                procedure main();
+                begin end
+                procedure foo(i: boolean;j:real);
+                begin
+                    with a,b:real;i:integer;b:real; do
+                    begin end
+                end
+                

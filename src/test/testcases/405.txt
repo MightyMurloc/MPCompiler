@@ -1,0 +1,7 @@
+
+                procedure main();
+                begin end
+                procedure foo(a,b,a: integer);
+                begin
+                end
+                

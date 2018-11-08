@@ -1,0 +1,9 @@
+
+                procedure main();
+                begin end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                end
+                var putintLN: integer;
+                

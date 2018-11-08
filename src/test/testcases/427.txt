@@ -1,0 +1,15 @@
+
+                var c: boolean; d: string;
+                procedure main();
+                var a,b: integer;
+                begin
+                    for a:= -1/2 to 5 do
+                    begin
+                        putIntLn(1);
+                    end
+                end
+                function foo():integer;
+                begin
+                    return 1;
+                end
+                

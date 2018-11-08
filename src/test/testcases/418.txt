@@ -1,0 +1,13 @@
+
+                var a: integer;
+                procedure main();
+                begin
+                    foo(false,1.0);
+                    a := g(1,2e-1,true);
+                end
+                procedure foo(i: boolean;j:real);
+                begin
+                    putIntLn(4);
+                    foo(True,1e2);
+                end
+                

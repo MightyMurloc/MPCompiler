@@ -1,0 +1,1 @@
+Type Mismatch In Statement: CallStmt(Id(proc),[FloatLiteral(100.0),StringLiteral(long),IntLiteral(12)])

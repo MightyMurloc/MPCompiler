@@ -1,0 +1,15 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: string; a: integer;
+                begin
+                    for a:= foo(8) downto 2 do
+                    begin
+                        putIntLn(1);
+                    end
+                end
+                function foo(x:integer):real;
+                begin
+                    return 1;
+                end
+                

@@ -1,0 +1,12 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: real;
+                begin
+                    a := foo(2);
+                end
+                function foo(x:integer):real;
+                begin
+                    return 1.5;
+                end
+                

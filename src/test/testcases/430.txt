@@ -1,0 +1,18 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var a: string; e: integer;
+                begin
+                    for e:= 1 to 5 do
+                    begin
+                        for a:= 7 downto 2 do
+                        begin
+                            putIntLn(1);
+                        end
+                    end
+                end
+                function foo(x:integer):real;
+                begin
+                    return 1;
+                end
+                

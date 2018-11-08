@@ -1,0 +1,8 @@
+
+                procedure main();
+                begin end
+                procedure foo(foo: boolean;j:real);
+                var J: array [1 .. 5] of real;
+                begin
+                end
+                

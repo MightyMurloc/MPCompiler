@@ -1,0 +1,27 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: real; d: array[-1 .. 3] of real;
+                begin
+                    c := 1.5 * proc(1.5,2.2);
+                    return;
+                end
+                function proc(x,y:real):real;
+                var i: integer;
+                begin
+                    i := 0;
+                    if f(2) then
+                        return 7;
+                    return 5;
+                end
+                function f(x:integer):boolean;
+                begin
+                    if a < b then
+                        return 2 < x;
+                    else
+                        if (a <> b) and false then
+                            return 212 > x + 2;
+                        else
+                            putIntLn(2);
+                end
+                

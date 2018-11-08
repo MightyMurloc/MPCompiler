@@ -1,0 +1,8 @@
+
+                procedure main();
+                begin end
+                procedure foo(i: boolean;j:real;i: string);
+                begin
+                    putIntLn(4);
+                end
+                

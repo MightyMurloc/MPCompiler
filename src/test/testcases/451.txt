@@ -1,0 +1,13 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var c: real; d: array[1 .. 2] of real;
+                begin
+                    proc(1.5,2);
+                    c := d[b] := d[c];
+                end
+                procedure proc(x:real;y:integer);
+                begin
+                    return;
+                end
+                

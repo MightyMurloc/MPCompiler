@@ -1,0 +1,20 @@
+
+                var a,b: integer; c: boolean; d: string;
+                procedure main();
+                var d: array[1 .. 2] of real; e: real;
+                begin
+                    log(1.5/2,proc(1)[b],e mod d[0]);
+                end
+                function proc(x:integer):array[1 .. 100] of integer;
+                var a: array[1 .. 100] of integer; i: integer;
+                begin
+                    for i := 1 to 100 do
+                        a[i] := i;
+                    return a;
+                end
+                procedure log(x:real;y:real;z:integer);
+                var y: boolean;
+                begin
+                    return;
+                end
+                
